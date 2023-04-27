@@ -1,0 +1,26 @@
+{
+  "name": "employee-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewStandish/employee-database.git"
+  },
+  "keywords": [
+    "MYSQL"
+  ],
+  "author": "Matthew Standish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatthewStandish/employee-database/issues"
+  },
+  "homepage": "https://github.com/MatthewStandish/employee-database#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.4"
+  }
+}
