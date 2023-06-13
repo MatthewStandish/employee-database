@@ -355,3 +355,4 @@ package-lock.json
 .DS_Store
 /*.env
 npm-debug.log
+.env
