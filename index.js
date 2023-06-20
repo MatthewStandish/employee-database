@@ -1,5 +1,5 @@
 const inquirer = require("inquirer");
-const connection = require("./db/connection");
+const query = require("./config/connection");
 // Function to start the application
 function startApp() {
   inquirer
